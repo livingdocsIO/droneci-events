@@ -1,0 +1,16 @@
+{
+  "name": "droneci-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lru-cache": "^5.1.1",
+    "pg": "^7.8.0"
+  }
+}
